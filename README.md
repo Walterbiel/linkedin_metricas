@@ -3,6 +3,11 @@
 Automação para coletar métricas de um post do LinkedIn a cada minuto  
 Impressões • Curtidas • Comentários • Compartilhamentos  
 
+PROJETO VAI SE DIVIDIR EM 3 PARTES:
+- PARTE 1: EXTRAIR DADOS DE METRICAS HISTORICAS COM SELENIUM E REALIZAR UMA ANÁLISE EM CIMA DISSO
+- PARTE 2: CRIAR AUTOMAÇÃO QUE EXTRAI E ARMAZENA DADOS A CADA 5 MINUTOS DOS POSTS (VERIFICAR EVOLUÇÃO)
+- PARTE 3: ESTUDO APROFUNDADO E MACHINE LEARNING PARA PREVISÃO E AVALIAÇÃO
+
 Os dados são armazenados em memória, viram um **DataFrame**, e podem ser salvos em **CSV** ou enviados para um **banco de dados**.
 
 ---
